@@ -5,7 +5,7 @@ Installing Guake
 System-wide installation
 ========================
 
-Always prefere using your package manager to install guake.
+Always prefer using your package manager to install guake.
 
 Debian / Ubuntu
 ---------------
